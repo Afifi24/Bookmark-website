@@ -16,7 +16,7 @@ const Simplebook = () => {
            </div>
            <div id="content" className='flex flex-1  items-center justify-center text-center md:text-start md:items-start flex-col gap-6'>
             <h1 className='text-xl md:text-3xl font-bold'>Bookmark in one click</h1>
-            <p className='max-w-sm md:max-w-md text-sm md:text-[16px] leading-[27px] text-gray-500'>Organize your bookmarks however you like. Our simple drag-and-drop interface gives you complete control over how you manage your favourite sites.</p>
+            <p className='max-w-sm md:max-w-md text-sm md:text-[16px] leading-[27px] text-gray-400'>Organize your bookmarks however you like. Our simple drag-and-drop interface gives you complete control over how you manage your favourite sites.</p>
             <button className='px-4 py-2 hidden md:flex bg-blue-500 rounded-md text-white '>More Info</button>
            </div>
             </div>

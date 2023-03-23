@@ -10,7 +10,7 @@ const Speedsearch = () => {
            </div>
            <div id="content" className='flex flex-1  items-center justify-center text-center md:text-start md:items-start flex-col gap-6'>
             <h1 className='text-xl md:text-3xl font-bold'>Inteligent search</h1>
-            <p className='max-w-sm md:max-w-md text-sm md:text-[16px] leading-[27px] text-gray-500'>Our powerful search feature will help you find saved sites in no time at all. No need to trawl through all of your bookmarks.</p>
+            <p className='max-w-sm md:max-w-md text-sm md:text-[16px] leading-[27px] text-gray-400'>Our powerful search feature will help you find saved sites in no time at all. No need to trawl through all of your bookmarks.</p>
             <button className='px-4 py-2 hidden md:flex bg-blue-500 rounded-md text-white '>More Info</button>
            </div>
             </div>
