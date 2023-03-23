@@ -9,6 +9,7 @@ import Extension from './components/Extension';
 import Faq from './components/Faq';
 import Contact from './components/Contact';
 import { useState } from 'react';
+import Footer from './components/Footer';
 function App() {
   const [isactive,setIsactive] = useState('simple')
   return (
@@ -24,6 +25,7 @@ function App() {
         <Extension/>
         <Faq/>
         <Contact/>
+        <Footer/>
 
     </div>
   );
