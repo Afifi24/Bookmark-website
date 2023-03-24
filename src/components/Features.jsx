@@ -6,8 +6,8 @@ const Features = ({setIsactive,isactive}) => {
     <div className='my-20 space-y-20'>
 
         <div className='text-center flex flex-col items-center justify-center gap-6'>
-            <h1 className='font-bold text-2xl'>Features</h1>
-            <p className='max-w-md text-sm md:text-[16px] mx-6 text-gray-400 leading-[27px] '>Our aim is to make it quick and easy for you to access your favourite websites. Your bookmarks sync between your devices so you can access them on the go.</p>
+            <h1 className='font-bold text-2xl text-VeryDarkBlue'>Features</h1>
+            <p className='max-w-md text-sm md:text-[16px] mx-6 text-GrayishBlue leading-[27px] '>Our aim is to make it quick and easy for you to access your favourite websites. Your bookmarks sync between your devices so you can access them on the go.</p>
         </div>
         <div>
             <nav className='flex items-center justify-center '>

@@ -6,10 +6,10 @@ const Nav = () => {
         <div className='hidden md:flex items-center justify-between '>
             <div id='logo'><img src={logo} alt="" /></div>
             <ul className='flex uppercase items-center gap-12 text-sm'>
-                 <a className='hover:text-red-400 duration-200' href="#">features</a>
-                 <a className='hover:text-red-400 duration-200' href="#">pricing</a>
-                 <a className='hover:text-red-400 duration-200' href="#">contact</a>
-                 <button className='uppercase border-transparent bg-red-500 text-white border-2 hover:shadow-xl hover:text-red-500 hover:bg-transparent duration-200 hover:border-red-500 rounded-md font-semibold px-6 text-sm py-2 tracking-[2px]'>login</button>
+                 <a className='hover:text-SoftRed text-VeryDarkBlue duration-200' href="#">features</a>
+                 <a className='hover:text-SoftRed text-VeryDarkBlue duration-200' href="#">pricing</a>
+                 <a className='hover:text-SoftRed text-VeryDarkBlue duration-200' href="#">contact</a>
+                 <button className='uppercase border-transparent bg-SoftRed  text-white border-2 hover:shadow-xl hover:text-SoftRed hover:bg-transparent duration-200 hover:border-SoftRed rounded-md font-semibold px-6 text-sm py-2 tracking-[2px]'>login</button>
             </ul>
         </div>
     </div>
