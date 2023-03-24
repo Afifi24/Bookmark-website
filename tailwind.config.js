@@ -13,6 +13,10 @@ module.exports = {
         SoftRed: 'hsl(0, 94%, 66%)',
         GrayishBlue: 'hsl(229, 8%, 60%)',
         VeryDarkBlue: 'hsl(229, 31%, 21%)',
+      },
+      screens:{
+        'md':'850px',
+        'xs':'300',
       }
     },
   },

@@ -6,7 +6,7 @@ const Easysharing = () => {
        <div className='flex flex-col md:flex-row gap-20 md:gap-2 my-20 items-center '>
            
            <div id="image" className='flex-1 flex items-center justify-center relative '>
-            <img className='w-96 z-10' src={sharing} alt="" />
+            <img className='px-10 z-10' src={sharing} alt="" />
              <div className='absolute -bottom-10 right-12 md:right-48 w-full rounded-tr-full rounded-br-full h-60 bg-SoftBlue z-0'></div>
            </div>
            <div id="content" className='flex flex-1  items-center justify-center text-center md:text-start md:items-start flex-col gap-6'>
